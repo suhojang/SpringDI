@@ -131,12 +131,12 @@ public class SpringDIFieldController {
 2021-04-12 14:18:49.894  INFO 23220 --- [nio-8080-exec-7] c.jsh.di.repository.SpringDIRepository   : hello Spring Dependency Injection Constructor
 ```
 
-+ Setter Method Injection
++ Setter Method Injection Call
 ```
 2021-04-12 14:19:12.373  INFO 23220 --- [nio-8080-exec-9] c.jsh.di.repository.SpringDIRepository   : hello Spring Dependency Injection Setter
 ```
 
-+ Field Injection
++ Field Injection Call
 ```
 2021-04-12 14:19:25.401  INFO 23220 --- [io-8080-exec-10] c.jsh.di.repository.SpringDIRepository   : hello Spring Dependency Injection Field
 ```
